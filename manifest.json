@@ -1,0 +1,15 @@
+{
+  "name": "Auto ưng Voz",
+  "description": "ung page",
+  "version": "6.9",
+  "browser_action": {
+    "default_icon": "sweet_kiss.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+"tabs",
+    "*://voz.vn/*"
+
+  ],
+  "manifest_version": 2
+}
